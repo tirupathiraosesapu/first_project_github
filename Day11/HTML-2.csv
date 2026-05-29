@@ -1,0 +1,26 @@
+Qno,Paragraph,Sound File,Play Times,Topic,Difficulty,Question Type,Mark,Negative Mark,Experience,Hint,Question,Explanation,Answers,num choices,choice 1,choice 2,choice 3,choice 4
+26,,,,HTML,Medium,1,1,,,,Which tag defines metadata?,<meta> provides page metadata.,3,4,<data>,<info>,<meta>,<head>
+27,,,,HTML,Medium,1,1,,,,Which tag links external CSS?,<link> connects external stylesheets.,3,4,<style>,<css>,<link>,<script>
+28,,,,HTML,Medium,1,1,,,,Which tag embeds JavaScript?,<script> is used to include JavaScript.,2,4,<js>,<script>,<code>,<javascript>
+29,,,,HTML,Medium,1,1,,,,Which tag is semantic?,Semantic tags describe meaning of content.,3,4,<div>,<span>,<header>,<font>
+30,,,,HTML,Medium,1,1,,,,Which tag defines navigation links?,<nav> contains navigation links.,2,4,<menu>,<nav>,<links>,<navigation>
+31,,,,HTML,Easy,1,1,,,,Which tag defines footer content?,<footer> contains footer information.,3,4,<bottom>,<end>,<footer>,<foot>
+32,,,,HTML,Medium,1,1,,,,Which tag defines the main content?,<main> represents main page content.,3,4,<section>,<article>,<main>,<content>
+33,,,,HTML,Medium,1,1,,,,Which tag groups inline elements?,<span> is an inline container.,2,4,<div>,<span>,<section>,<group>
+34,,,,HTML,Easy,1,1,,,,Which tag groups block elements?,<div> is a block-level container.,3,4,<span>,<group>,<div>,<block>
+35,,,,HTML,Medium,1,1,,,,Which tag embeds audio?,<audio> embeds sound files.,3,4,<sound>,<music>,<audio>,<mp3>
+36,,,,HTML,Medium,1,1,,,,Which tag embeds video?,<video> embeds video files.,3,4,<media>,<movie>,<video>,<mp4>
+37,,,,HTML,Medium,1,1,,,,Which tag displays preformatted text?,<pre> preserves spaces and formatting.,3,4,<code>,<format>,<pre>,<text>
+38,,,,HTML,Medium,1,1,,,,Which tag defines a section?,<section> groups related content.,2,4,<div>,<section>,<part>,<content>
+39,,,,HTML,Medium,1,1,,,,Which tag defines an article?,<article> represents independent content.,1,4,<article>,<section>,<div>,<content>
+40,,,,HTML,Medium,1,1,,,,Which tag is deprecated in HTML5?,<center> is deprecated in HTML5.,1,4,<center>,<section>,<article>,<header>
+41,,,,HTML,Medium,1,1,,,,Which attribute disables input?,disabled prevents user interaction.,3,4,readonly,disable,disabled,lock
+42,,,,HTML,Medium,1,1,,,,Which attribute sets default input value?,value defines default input content.,2,4,default,value,set,data
+43,,,,HTML,Medium,1,1,,,,Which input type uploads files?,file type allows file upload.,2,4,upload,file,document,files
+44,,,,HTML,Easy,1,1,,,,Which tag defines labels for inputs?,<label> improves accessibility.,3,4,<name>,<title>,<label>,<input>
+45,,,,HTML,Easy,1,1,,,,Which tag inserts a horizontal line?,<hr> creates a horizontal line.,3,4,<line>,<br>,<hr>,<hl>
+46,,,,HTML,Easy,1,1,,,,Which tag defines inline text?,<span> is an inline element.,2,4,<div>,<span>,<p>,<section>
+47,,,,HTML,Easy,1,1,,,,Which tag defines the document head?,<head> contains metadata.,3,4,<top>,<header>,<head>,<meta>
+48,,,,HTML,Easy,1,1,,,,Which tag contains visible page content?,<body> contains visible content.,3,4,<html>,<head>,<body>,<title>
+49,,,,HTML,Easy,1,1,,,,Which tag defines the page title?,<title> sets browser tab title.,3,4,<meta>,<header>,<title>,<head>
+50,,,,HTML,Easy,1,1,,,,HTML is a _____ language.,HTML is a markup language.,3,4,Programming,Scripting,Markup,Styling

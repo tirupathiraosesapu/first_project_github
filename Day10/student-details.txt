@@ -1,0 +1,10 @@
+Name: Tirupathi
+Age: 28
+Mobile Number: 8179020106
+Course: Python Full Stack
+--------------------------------
+Name: Manisha
+Age: 22
+Mobile Number: 1234567890
+Course: MERN Stack
+--------------------------------
